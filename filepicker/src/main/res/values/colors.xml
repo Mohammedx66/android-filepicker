@@ -5,5 +5,5 @@
     <color name="colorAccent">#3F51B5</color>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="textColorSecondary">#FFFFFF</color>
-    <color name="colorHeader">@color/colorPrimary</color>
+    <color name="colorHeader">@color#FF222D36</color>
 </resources>
